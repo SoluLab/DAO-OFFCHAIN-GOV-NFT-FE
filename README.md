@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Getting Started
 
 ### Installation
 
@@ -16,7 +13,7 @@ To get a local copy up and running follow these simple example steps._
    ```sh
    cd OffChain-NFT-DAO-FE && npm install
    ```
-3. Enter your API_URL in `apiBase.js`, that located at `src/constants/`
+3. Enter your API_URL in `apiBase.js`, that located at `src/constants/` (_Enter url of Backend project_)
    ```js
    const BASE_URL = 'ENTER YOUR API_BASE_URL';
 
